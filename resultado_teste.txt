@@ -1,0 +1,7 @@
+OK - deveMontarMountainBike
+OK - deveMontarSpeed
+OK - deveMontarUrbana
+OK - deveMontarBicicletaPersonalizadaComBuilder
+OK - deveRetornarErroQuandoModeloNaoForInformado
+OK - deveRetornarErroQuandoValorForInvalido
+Todos os testes manuais passaram com sucesso!
